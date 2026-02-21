@@ -2680,3 +2680,6 @@
 01:48:08 | state=344479
 01:48:08 | rating2=5189
 01:48:08 | fingerprint2=1bd94de6bfd30dfa2b9664dc50eea337b4d8a28c87f6b2c455b4cea92facdce9
+02:03:08 | state=545129
+02:03:08 | rating2=8497
+02:03:08 | fingerprint2=aabcb015878f941d355afae8aea4d7692c7ab673bf8bd8ddcd4e960279c65b19
